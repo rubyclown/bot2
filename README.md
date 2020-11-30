@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="RUBY BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RUBY BOT" src="https://img.shields.io/badge/RUBY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rubyclown"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
@@ -36,7 +36,7 @@ If you find some bugs please contact the WhatsApp number on Contact
 - [WHATSAPP GROUP](https://chat.whatsapp.com/InZrGpgBBNB4hnS7Q6sVJG)
 
 ## APIKEY
-Open setting.js then edit & paste it in [YOUR_APIKEY](https://github.com/TobyG74/ElainaBOT/blob/cdd61100ba02de47dbcb5f5122fbc128b1bf4403/lib/database/setting.json#L5)
+Open setting.js then edit & paste it in [YOUR_APIKEY](https://github.com/rubyclown/ElainaBOT/blob/cdd61100ba02de47dbcb5f5122fbc128b1bf4403/lib/database/setting.json#L5)
 - [VHTEAR](https://api.vhtear.com)
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
