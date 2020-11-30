@@ -5,47 +5,47 @@
 <a href="#"><img title="RUBY BOT" src="https://img.shields.io/badge/RUBY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/rubyclown"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rubyclown"><img title="Author" src="https://img.shields.io/badge/Author-RUBY-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rubyclown/followers"><img title="Followers" src="https://img.shields.io/github/followers/rubyclown?color=blue&style=flat-square"></a>
+<a href="https://github.com/rubyclown/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/rubyclown/bot2?color=red&style=flat-square"></a>
+<a href="https://github.com/rubyclown/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/rubyclown/bot2?color=red&style=flat-square"></a>
+<a href="https://github.com/rubyclown/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/rubyclown/bot2?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://twitter.com/rubyclown"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/rubyclown_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/rubyclown"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
 </P>
 
 ## Information
 
-- Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
+- Change [ownerNumber](https://github.com/rubyclown/bot2/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
 ownerNumber = "6213xxxxxx@c.us"
-- Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
+- Change [adminNumber](https://github.com/rubyclown/bot2/blob/main/lib/database/admin.json#L1) in admin.json to be your number
 [] -> ["62813xxxxxx@c.us"]
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/InZrGpgBBNB4hnS7Q6sVJG)
+- [TELEGRAM](https://t.me/danikun)
+- [WHATSAPP](https://wa.me/6282322427684)
+- [MY BOT](wa.me/+6282322427684)
+- [WHATSAPP GROUP](https://chat.whatsapp.com)
 
 ## APIKEY
-Open setting.js then edit & paste it in [YOUR_APIKEY](https://github.com/rubyclown/ElainaBOT/blob/cdd61100ba02de47dbcb5f5122fbc128b1bf4403/lib/database/setting.json#L5)
+Open setting.js then edit & paste it in [YOUR_APIKEY](https://github.com/rubyclown/bot2/blob/cdd61100ba02de47dbcb5f5122fbc128b1bf4403/lib/database/setting.json#L5)
 - [VHTEAR](https://api.vhtear.com)
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
 Apikey Location
-- [APIKEY](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
+- [APIKEY](https://github.com/rubyclown/bot2/blob/main/lib/database/setting.json)
 
 ## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
+- [Saweria](https://saweria.co/rubyclown)
+- [Dana](https://link.dana.id/qr/47474)
 
 ## Getting Started
 
@@ -56,8 +56,8 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/rubyclown/bot2
+> cd bot2
 ```
 
 Install the dependencies:
